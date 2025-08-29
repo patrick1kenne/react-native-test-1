@@ -3,10 +3,10 @@
   "version": "0.1.1",
   "description": "Test de librairie",
   "main": "./lib/module/index.js",
+  "source": "./src/index.tsx",
   "types": "./lib/typescript/src/index.d.ts",
   "exports": {
     ".": {
-      "source": "./src/index.tsx",
       "types": "./lib/typescript/src/index.d.ts",
       "default": "./lib/module/index.js"
     },
@@ -152,6 +152,6 @@
   "create-react-native-library": {
     "languages": "js",
     "type": "library",
-    "version": "0.53.0"
+    "version": "0.49.2"
   }
 }
