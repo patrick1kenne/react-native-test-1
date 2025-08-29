@@ -2,8 +2,8 @@
   "name": "react-native-test-1",
   "version": "0.1.2",
   "description": "Test de librairie",
-  "main": "./lib/module/index.js",
   "source": "./src/index.tsx",
+  "main": "./lib/module/index.js",
   "types": "./lib/typescript/src/index.d.ts",
   "exports": {
     ".": {
@@ -39,7 +39,7 @@
     "clean": "del-cli lib",
     "build": "tsc",
     "prepare": "bob build",
-    "release": "release-it --only-version"
+    "release": "release-it"
   },
   "keywords": [
     "react-native",
