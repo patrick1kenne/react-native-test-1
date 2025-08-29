@@ -1,6 +1,6 @@
 {
     "name": "react-native-test-1",
-    "version": "0.1.44",
+    "version": "0.1.2",
     "description": "Test component for react native",
     "source": "./src/index.tsx",
     "main": "./lib/module/index.js",
