@@ -1,6 +1,6 @@
 {
   "name": "react-native-test-1",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Test de librairie ",
   "source": "./src/index.tsx",
   "main": "./lib/module/index.js",
